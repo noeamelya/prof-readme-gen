@@ -1,12 +1,16 @@
+# Professional README Generator
+
+## Description
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
 
 
-## User Story
 
-* As a developer, I want a README generator so that I can quickly create a professional README for a new project
-
-## Acceptance Criteria
-
-* Create a command-line application that accepts user input.
   * When a user is prompted for information about the application repository then a high-quality, professional README.md is generated with:
     * The title of my project 
     * Sections entitled:
@@ -25,44 +29,11 @@
     * When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
 
-## Getting Started
-
-Here are some guidelines to help you get started:
-
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
-
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
-
-
-
-
-
-
-
-
-# Professional README Generator
-
-## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents 
-
-- [--> Installation](#installation)
-- [--> Usage](#usage)
-- [--> Constributor](#constributor)
-- [--> License](#license)
-- [--> Budges](#budges)
-- [--> Test](#test)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+* Download it through GitHub
+* Ensure inquirer is installed 
 
 ## Usage
 
@@ -76,22 +47,20 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Constributor
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+ The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard.
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
+## Test 
 🏆 
 
-## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+## Additional info
 
+Github : https://github.com/noeamelya
 
-## Tests
-
-## Questions
+Email : noeamelyaofficial@hotmail.com
 
 © 2023 edX Boot Camps, N Amelya
