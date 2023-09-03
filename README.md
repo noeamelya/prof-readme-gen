@@ -2,18 +2,14 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+When creating an open source project on GitHub, it's important to have a high-quality README for the app. This should include the app's purpose, how to use the app, how to install it, how to report issues, and how to make contributions. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer packageLinks to an external site. 
 
 
-
-  * When a user is prompted for information about the application repository then a high-quality, professional README.md is generated with:
-    * The title of my project 
-    * Sections entitled:
+  * When a user is prompted for information about the application repository 
+    - then a high-quality, professional README.md is generated with: The title of my project 
+      Sections entitled:
       * Description 
       * Table of Contents 
       * Installation 
@@ -21,13 +17,28 @@ Provide a short description explaining the what, why, and how of your project. U
       * License 
       * Contributing 
       * Tests 
-      * Questions
-    * When a user enters the project title then it is displayed as the title of the README
-    * When a user enters a description, installation instructions, usage information, contribution guidelines, and test instructions then this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-    * When a user chooses a license for their application from a list of options then a badge for that license is added near the top of the README and a notice is added to the section of the README entitled **License** that explains which license the application is covered under
-    * When a user enters their GitHub username then this is added to the section of the README entitled Questions, with a link to their GitHub profile
-    * When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
+      * Addition info
+    * When a user enters the project title
+      - then it is displayed as the title of the README
+    * When a user enters a description, installation instructions, usage information, contribution guidelines, and test instructions 
+      - then this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+    * When a user choose a license for their application
+      - then a badge for that license is added near the top of the README and a notice is added to the section of the README entitled **License** that explains which license the application is covered under
+    * When a user enters their GitHub username 
+      - then this is added to the section of the README entitled Questions, with a link to their GitHub profile
+    * When a user enters their email address 
+      - then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
+
+## Table of contents
+
+- [--> Description](#description)
+- [--> Installation](#installation)
+- [--> Usage](#usage)
+- [--> Contribution](#constribution)
+- [--> License](#license)
+- [--> Testing](#test)
+- [--> Additional Info](#additional-info)
 
 
 ## Installation
@@ -37,15 +48,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Constributor
+## Constribution
 
  The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard.
 
@@ -55,7 +60,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Test 
 🏆 
-
+N/A
 
 ## Additional info
 
