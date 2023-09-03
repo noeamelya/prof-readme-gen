@@ -48,6 +48,14 @@ Create a command-line application that dynamically generates a professional READ
 
 ## Usage
 
+* Open terminal of the file project
+* Type 'node index.js' 
+* Answer the prompts that follow
+* On success a README.md will be generated.
+
+
+
+![outcome project](./image/readme.png)
 
 
 ## Constribution
@@ -58,7 +66,7 @@ Create a command-line application that dynamically generates a professional READ
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Test 
+## Testing 
 🏆 
 N/A
 
