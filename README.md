@@ -58,6 +58,9 @@ Create a command-line application that dynamically generates a professional READ
 ![outcome project](./image/readme.png)
 
 
+[Watch the video](./image/ReadmeGen.mp4)
+
+
 ## Constribution
 
  The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard.
