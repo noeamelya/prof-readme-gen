@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
+
+// Internal modules
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
@@ -142,6 +144,7 @@ function writeToFile(fileName, data) {
     });
 };
 
+const writeFileAsync = util.promisify(writeToFile);
 
 // function to initialize program
 function init() {
