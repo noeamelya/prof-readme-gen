@@ -82,6 +82,7 @@ const questions = [
     type: 'checkbox',
     name: 'licensing',
     message: 'Choose a license for your project',
+    choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
     validate: licensingInput => {
         if (licensingInput) {
             return true;
@@ -143,8 +144,6 @@ function writeToFile(fileName, data) {
         console.log('Success! Information transferred to the README!')
     });
 };
-
-const writeFileAsync = util.promisify(writeToFile);
 
 // function to initialize program
 function init() {
