@@ -1,5 +1,8 @@
 # Professional README Generator
 
+## Licensing:
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 Creating README's in N Amelya 
 
