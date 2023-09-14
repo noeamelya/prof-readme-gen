@@ -55,10 +55,10 @@ Create a command-line application that dynamically generates a professional READ
 
 
 
-![outcome project](./image/readme.png)
+https://drive.google.com/file/d/1eW0wNJKtcet6I288AhfOl14a39sj9ho_/view
 
 
-[Watch the video](./image/ReadmeGen.mp4)
+![Watch the video](./image/Prof-Readme-Gen.gif)
 
 
 ## Constribution

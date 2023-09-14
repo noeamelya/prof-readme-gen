@@ -1,7 +1,7 @@
-# Professional README Geenerator
+# Professional README Genertor
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
   ## Table of Contents 
   - [Description](#description)
@@ -15,19 +15,19 @@
   Installing generation professional README
 
   ## Installation:
-  Download in to gitHub
+  Download in to github
 
   ## Usage:
-  Open terminal and type node index.js
+  open the terminal and type node index.js
 
   ## License:
-  MIT
+  
 
   ## Contribution:
-  Provide the link of  the project
+  provide the link of the project
 
   ## Testing:
-  N/A
+  node test
 
   ## Additional Info:
   - Github: [N Amelya](https://github.com/N Amelya)
