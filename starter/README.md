@@ -1,7 +1,7 @@
-# prof readme generator
+# Professional README Geenerator
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
   ## Table of Contents 
   - [Description](#description)
@@ -12,22 +12,22 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  generate the profeessional README
+  Installing generation professional README
 
   ## Installation:
-  download into github
+  Download in to gitHub
 
   ## Usage:
-  open terminal and type node index.js
+  Open terminal and type node index.js
 
   ## License:
-  Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None
+  MIT
 
   ## Contribution:
-  provide the link of project
+  Provide the link of  the project
 
   ## Testing:
-  ask the question
+  N/A
 
   ## Additional Info:
   - Github: [N Amelya](https://github.com/N Amelya)
